@@ -1,0 +1,6 @@
+username = input("what is your name? : ")
+age = input("How old are you? : ")
+favorite_food = input("What is your favorite? : ")
+print("Your name is : ",username)
+print("You are : ",age)
+print("Your favorite food is : ",favorite_food)
